@@ -1,4 +1,4 @@
-### Hi, I'm Quinton 👋 Software engineering student @ Concordia · [LinkedIn](https://www.linkedin.com/in/quinton-shannon-b95b842b9)
+### Hey, I'm Quinton, a software engineering student @ Concordia University 🎓👋
 
 ---
 
