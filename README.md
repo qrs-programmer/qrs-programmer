@@ -1,13 +1,4 @@
-<h1 align="center">Hey, I'm Quinton 👋</h1>
-<p align="center">
-  Software engineering student at Concordia (Co-op), building full-stack apps and exploring AI.
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/quinton-shannon-b95b842b9">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+### Hi, I'm Quinton 👋 Software engineering student @ Concordia · [LinkedIn](https://www.linkedin.com/in/quinton-shannon-b95b842b9)
 
 ---
 
