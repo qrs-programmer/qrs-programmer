@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hey, I'm Quinton 👋</h1>
+<p align="center">
+  Software engineering student at Concordia (Co-op), building full-stack apps and exploring AI.
+</p>
 
-<!--
-**qrs-programmer/qrs-programmer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/quinton-shannon-b95b842b9">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💼 Experience
+- **Web Developer @ XTM Flowfit** (May – Aug 2026)
+- **Software Developer @ Peak Products** (Sept 2024 – May 2026)
+
+### 🛠️ Tech
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,py,ts,js,react,angular,pytorch,numpy" />
+</p>
+
+### 🌱 Currently
+- Interested in applied AI, backend engineering, and full-stack development
+
+<p align="center"><i>Always up for hackathons and collaboration. Say hi!</i></p>
